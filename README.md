@@ -1,4 +1,4 @@
-# swing-ant-input-handler
+# Swing Apache Ant Input Handler
 Implementation of the Ant Input Handler interface
 
 Implementation of the https://ant.apache.org/manual/inputhandler.html API which shows a dialog allowing the end user to choose the value.
